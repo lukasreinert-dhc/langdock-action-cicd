@@ -1,0 +1,6 @@
+__pycache__/
+integrations/
+secrets.json
+integrations.json
+*.zip
+*.pyc
